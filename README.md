@@ -4,8 +4,8 @@
 - Creating a .gitignore file
 - Non-web server Node.js JavaScript code
     - Lambda expressions
-    - Tenary operater
-    - if...else statments
+    - Ternary operator
+    - if...else statements
     - template literals
 - Web server Node.js JavaScript code
   - Installing fastify
@@ -17,7 +17,7 @@
 
 ## Objectives
 
-### Initalize the folder as a node.js project and update server code to the proper MIME type. Adjust routes to respond to query parameters from the client or a lack thereof.
+### Initialize the folder as a node.js project and update server code to the proper MIME type. Adjust routes to respond to query parameters from the client or a lack thereof.
 
 ```
 // Require the Fastify framework and instantiate it
